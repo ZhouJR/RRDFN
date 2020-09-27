@@ -1,2 +1,2 @@
 # RRDFN
-generation of random rough discrete fracture network
+Generation of andom rough discrete fracture network
